@@ -65,6 +65,9 @@
   dates: dates-helper(start-date: "Nov 2025", end-date: "Present"),
 )
 - Took ownership of a *route optimization* project for a waste management company, improving driver productivity and reduced daily travel distance by *8-10%*.
+- Implemented partner platform API integrations for a *heuristics-powered steel production planning and optimization system*.
+- Implemented a *PySide UI* for production data upload supporting execution of a heuristic *textile line planning system*.
+
 
 #work-inline(
   title: "Data Scientist Intern",
